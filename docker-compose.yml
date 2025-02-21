@@ -1,0 +1,12 @@
+services:
+  container_ui:
+    container_name: container_ui
+    image: ghcr.io/urbreath/container_ui:latest
+    ports:
+      - 3000:80
+    networks:
+      - urbreath
+
+networks:
+  urbreath:
+    driver: bridge
