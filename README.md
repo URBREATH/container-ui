@@ -101,3 +101,8 @@ ilab-urbreath-container-ui/
 ├── tsconfig.json           # TypeScript configuration
 │── jest.setup.ts           # Setup for the testing environment
 └── README.md               # Documentation file
+
+|  |  |
+|--------|---------|
+| Dependencies | - |
+| Contacts | e.chrysikou@atc.gr |
